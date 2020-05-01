@@ -1,7 +1,7 @@
 # covid19
 Datos covid19 España
 Datos de prevalencia en cada comunidad autónoma.
-Obtenidos de las web de las diferentes consejerías de sanidad.
+Obtenidos de las web de las diferentes consejerías de sanidad. NO figuran datos de Canarias ni de Cataluña, que no facilitan esta información.
 Listado de fuentes:
 
 https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias.html
