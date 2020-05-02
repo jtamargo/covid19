@@ -34,3 +34,7 @@ https://gobiernoabierto.navarra.es/es/coronavirus
 https://www.euskadi.eus/boletin-de-datos-sobre-la-evolucion-del-coronavirus/web01-a2korona/es/
 
 https://twitter.com/riojasalud
+
+NOTA 2/ MAYO
+Detectados errores y actualizados datos de Ceuta y de Baleares. 
+
