@@ -48,5 +48,6 @@ Detectados errores y actualizados datos de Ceuta y de Baleares.
 NOTA /13 mAYO
 Desde hoy se incluye la información de Canarias que ha comenzado a hacer publico un informe detallado diario de la situación
 Se han obtenido datos de ocupación de UCI en Cataluña desde el 14 de abril
+
 NOTA 15 mayo
 Pais Vasco ha recalculado todos los datos de la serie cambiando el periodo de cómputo de las 20:00 de un dia a las 20:00 del siguiente para pasar a calcular por días naturales, es decir de 00:00 a 00:00. Se han actualizado las tablas correspondientes a esa comunidad autónoma.
