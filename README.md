@@ -51,3 +51,6 @@ Se han obtenido datos de ocupación de UCI en Cataluña desde el 14 de abril
 
 NOTA 15 mayo
 Pais Vasco ha recalculado todos los datos de la serie cambiando el periodo de cómputo de las 20:00 de un dia a las 20:00 del siguiente para pasar a calcular por días naturales, es decir de 00:00 a 00:00. Se han actualizado las tablas correspondientes a esa comunidad autónoma.
+
+NOTA 25 Mayo
+La Rioja ha dejado de publicar los datos de recuperados y acgtivos. Para no distorsionar el total de españa se copia cada dia la última cifra conocida.
